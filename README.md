@@ -4,6 +4,8 @@
 
 # 新手指南 https://www.freebuf.com/articles/web/120747.html
 
+# https://www.itread01.com/content/1502196979.html
+
 # DVWA共有十个模块，分别是
 
 Brute Force（暴力（破解））
