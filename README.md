@@ -4,6 +4,9 @@
 
 # https://www.freebuf.com/articles/web/120747.html
 
+# 語法教學 https://www.1keydata.com/tw/sql/sql.html
+
+
 # DVWA共有十个模块，分别是
 
 Brute Force（暴力（破解））
@@ -25,4 +28,5 @@ SQL Injection（Blind）（SQL盲注）
 XSS（Reflected）（反射型跨站脚本）
 
 XSS（Stored）（存储型跨站脚本）
+
 
