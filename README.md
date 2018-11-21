@@ -1,3 +1,28 @@
 # DVWA
 
 # http://172.20.155.173/DVWA
+
+# https://www.freebuf.com/articles/web/120747.html
+
+# DVWA共有十个模块，分别是
+
+Brute Force（暴力（破解））
+
+Command Injection（命令行注入）
+
+CSRF（跨站请求伪造）
+
+File Inclusion（文件包含）
+
+File Upload（文件上传）
+
+Insecure CAPTCHA （不安全的验证码）
+
+SQL Injection（SQL注入）
+
+SQL Injection（Blind）（SQL盲注）
+
+XSS（Reflected）（反射型跨站脚本）
+
+XSS（Stored）（存储型跨站脚本）
+
