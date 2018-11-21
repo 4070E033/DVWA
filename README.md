@@ -2,7 +2,7 @@
 
 # http://172.20.155.173/DVWA
 
-# https://www.freebuf.com/articles/web/120747.html
+# 新手指南 https://www.freebuf.com/articles/web/120747.html
 
 # DVWA共有十个模块，分别是
 
