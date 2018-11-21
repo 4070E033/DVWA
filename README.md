@@ -4,9 +4,6 @@
 
 # https://www.freebuf.com/articles/web/120747.html
 
-# 語法教學 https://www.1keydata.com/tw/sql/sql.html
-
-
 # DVWA共有十个模块，分别是
 
 Brute Force（暴力（破解））
